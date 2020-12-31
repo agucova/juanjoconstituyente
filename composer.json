@@ -1,19 +1,14 @@
 {
-    "name": "roots/bedrock",
+    "name": "agucova/juanjoconstituyente",
     "type": "project",
     "license": "MIT",
-    "description": "WordPress boilerplate with modern development tools, easier configuration, and an improved folder structure",
-    "homepage": "https://roots.io/bedrock/",
+    "description": "Website for juanjoconstituyente.cl, built with roots/bedrock.",
+    "homepage": "https://juanjoconstituyente.cl",
     "authors": [
         {
-            "name": "Scott Walkinshaw",
-            "email": "scott.walkinshaw@gmail.com",
-            "homepage": "https://github.com/swalkinshaw"
-        },
-        {
-            "name": "Ben Word",
-            "email": "ben@benword.com",
-            "homepage": "https://github.com/retlehs"
+            "name": "Agustín Covarrubias",
+            "email": "agucova@gmail.com",
+            "homepage": "https://agucova.me/"
         }
     ],
     "keywords": [
@@ -25,8 +20,7 @@
         "wp-config"
     ],
     "support": {
-        "issues": "https://github.com/roots/bedrock/issues",
-        "forum": "https://discourse.roots.io/category/bedrock"
+        "issues": "https://github.com/agucova/juanjoconstituyente/issues"
     },
     "repositories": [
         {
